@@ -1,13 +1,6 @@
 # Audit Bootstrap Documentation site
 
-Browser settings:
-* Google Chrome
-* Network throttle: Slow 3G
-* Cache: disabled
-
-Tools:
-* Google Chrome Devtools (Network & Audits)
-* PageSpeed Insights
+In this AUDIT.md file I will tell you more about the process. To see the total result, check the [README.md](https://github.com/s44s/performance-matters/blob/master/README.md)
 
 ***
 ## CSS
