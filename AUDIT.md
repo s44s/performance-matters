@@ -55,3 +55,11 @@ Before:
 
 After:
 ![alt text](https://github.com/s44s/performance-matters/blob/minify-js/src/images/JS-after.png "Screen")
+
+***
+## Images
+
+On the homepage there are 7 different images. By using a simple compression method, the page will load faster. Tool: https://tinypng.com/
+This results into a 57% compression.
+
+![alt text](https://github.com/s44s/performance-matters/blob/images/src/images/tinypng.png "Screen")
