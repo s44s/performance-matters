@@ -63,3 +63,11 @@ On the homepage there are 7 different images. By using a simple compression meth
 This results into a 57% compression.
 
 ![alt text](https://github.com/s44s/performance-matters/blob/images/src/images/tinypng.png "Screen")
+
+You can see this compression in the site as well.
+
+Before:
+![alt text](https://github.com/s44s/performance-matters/blob/images/src/images/img-before.png "Screen")
+
+After:
+![alt text](https://github.com/s44s/performance-matters/blob/images/src/images/img-after.png "Screen")
