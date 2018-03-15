@@ -30,8 +30,6 @@ I replaced the old .woff and .woff2 files for the subsetting files.
 
 Secondly, I checked if the fonts only uses the font types .woff and .woff2. Other font types (.eot, .ttf, .otf) have been deleted.
 
-***
-
 The result:
 * sourcesanspro-regular.woff2
 (9.47sec & 75.3kb > 3.11sec & 26.8kb)
@@ -45,3 +43,15 @@ Before:
 After:
 ![alt text](https://github.com/s44s/performance-matters/blob/custom-fonts/src/images/after.png "Screen")
 
+***
+## Javascript
+With the tool: https://jscompress.com/ I minified two Javascript files. This is the result:
+
+* bootstrap.js (5.39sec > 3.95sec)
+* ie10-viewport-bug-workaround.js (2.08sec > 2.08sec)
+
+Before:
+![alt text](https://github.com/s44s/performance-matters/blob/minify-js/src/images/JS-before.png "Screen")
+
+After:
+![alt text](https://github.com/s44s/performance-matters/blob/minify-js/src/images/JS-after.png "Screen")
