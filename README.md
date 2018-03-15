@@ -27,17 +27,19 @@ Branches I created:
 
 Branches I still have to create:
 * Critical CSS
-*
+
+***
+
 Overall, you can see the before and after results here:
 
-Before:
+### Before:
 * 20 Requests
 * 1.2 MB transferred
 * Load: 30.75sec
 
 ![alt text](https://github.com/s44s/performance-matters/blob/master/src/images/overallbefore.png "Screen")
 
-After:
+### After:
 * 20 Requests
 * 687 KB transferred
 * Load: 19.81sec
