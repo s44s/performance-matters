@@ -69,3 +69,15 @@ Before:
 
 After:
 ![alt text](https://github.com/s44s/performance-matters/blob/images/src/images/img-after.png "Screen")
+
+***
+## CSS Render-blocking
+My Audits Lighthouse Test gave the opportunity to speed up my application by reducing render-blocking stylesheets. So I did some research and found this article: https://github.com/filamentgroup/loadCSS
+
+And wow, what a difference for my first paint and performance rate!
+Before:
+![alt text](https://github.com/s44s/performance-matters/blob/css-blocking/src/images/render-before.png "Screen")
+
+After:
+
+![alt text](https://github.com/s44s/performance-matters/blob/css-blocking/src/images/overall-after2.png "Screen")

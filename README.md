@@ -42,5 +42,5 @@ Overall, you can see the before and after results here:
 ### After:
 * 20 Requests
 * 687 KB transferred
-* Load: 19.81sec
-![alt text](https://github.com/s44s/performance-matters/blob/master/src/images/overall-after.png "Screen")
+* Load: 19.04sec
+![alt text](https://github.com/s44s/performance-matters/blob/css-blocking/src/images/overall-after2.png "Screen")
