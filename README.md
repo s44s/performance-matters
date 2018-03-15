@@ -18,7 +18,7 @@ Differences from actual Bootstrap documentation:
 - Expose localhost: `npm run expose`
 
 ## Master branche
-In the master branche you can find the optimized site. For each feature I made a new branche and in the end I merged them with the master branche. Check the [CAUDIT.md](https://github.com/s44s/performance-matters/blob/master/AUDIT.md) file to find out more about the process. Overall, you can see the changes here:
+In the master branche you can find the optimized site. For each feature I made a new branche and in the end I merged them with the master branche. Check the [AUDIT.md](https://github.com/s44s/performance-matters/blob/master/AUDIT.md) file to find out more about the process. Overall, you can see the changes here:
 
 Before:
 ![alt text](https://github.com/s44s/performance-matters/blob/master/src/images/overallbefore.png "Screen")
