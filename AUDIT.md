@@ -15,10 +15,10 @@ Secondly, I checked if the fonts only uses the font types .woff and .woff2. Othe
 
 The result:
 * sourcesanspro-regular.woff2
-9.47sec & 75.3kb > 3.11sec & 26.8kb
+(9.47sec & 75.3kb > 3.11sec & 26.8kb)
 
 * sourcesanspro-light.woff2
-11.70sec & 74.5kb > 6.18sec & 26.3kb
+(11.70sec & 74.5kb > 6.18sec & 26.3kb)
 
 Before:
 ![alt text](https://github.com/s44s/performance-matters/blob/custom-fonts/src/images/before.png "Screen")
