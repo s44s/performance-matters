@@ -1,8 +1,13 @@
 # Audit Bootstrap Documentation site
 
-Test details:
+Browser settings:
+* Google Chrome
 * Network throttle: Slow 3G
 * Cache: disabled
+
+Tools:
+* Google Chrome Devtools (Network & Audits)
+* PageSpeed Insights
 
 ***
 ## CSS
