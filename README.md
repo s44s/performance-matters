@@ -21,7 +21,7 @@ Differences from actual Bootstrap documentation:
 In the master branche you can find the optimized site. For each feature I made a new branche and in the end I merged them with the master branche. Overall, you can see the changes here:
 
 Before:
-![alt text](https://github.com/s44s/performance-matters/src/images/overall-before.png "Screen")
+![alt text](https://github.com/s44s/performance-matters/blob/master/src/images/overall-before.png "Screen")
 
 After:
-![alt text](https://github.com/s44s/performance-matters/src/images/overall-after.png "Screen")
+![alt text](https://github.com/s44s/performance-matters/blob/master/src/images/overall-after.png "Screen")
