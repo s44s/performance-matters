@@ -10,7 +10,7 @@ First of all, I checked in Chrome Dev tools how many request are recorded. I fou
 
 ![alt text](https://github.com/s44s/performance-matters/blob/minify-css/src/images/screen1.png "Screen")
 
-So, I decided to minify the three CSS files. Tool: https://cssminifier.com/ And this was the result:
+I decided to minify the three CSS files. Tool: https://cssminifier.com/ And this was the result:
 
 ![alt text](https://github.com/s44s/performance-matters/blob/minify-css/src/images/screen1.png "Screen")
 
